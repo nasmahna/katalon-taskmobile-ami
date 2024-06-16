@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Notification using text then back</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ee57db4a-1731-4a79-a4f9-c04bc0e045a5</testCaseGuid>
+</TestCaseEntity>

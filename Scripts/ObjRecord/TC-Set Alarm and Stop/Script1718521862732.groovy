@@ -19,25 +19,25 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('/Users/nasmahna/Documents/Katalon-GITS/katalon-mobile-p2024/APK/APIDemos.apk', true)
 
-Mobile.getText(findTestObject('Object Repository/ObjRecord/Alarm/android.widget.TextView - App'), 0)
+Mobile.getText(findTestObject('Object Repository/ObjRecord/App-Alarm/android.widget.TextView - App'), 0)
 
-Mobile.tap(findTestObject('Object Repository/ObjRecord/Alarm/android.widget.TextView - App'), 0)
+Mobile.tap(findTestObject('Object Repository/ObjRecord/App-Alarm/android.widget.TextView - App'), 0)
 
-Mobile.getText(findTestObject('Object Repository/ObjRecord/Alarm/android.widget.TextView - Alarm'), 0)
+Mobile.getText(findTestObject('Object Repository/ObjRecord/App-Alarm/android.widget.TextView - Alarm'), 0)
 
-Mobile.tap(findTestObject('Object Repository/ObjRecord/Alarm/android.widget.TextView - Alarm'), 0)
+Mobile.tap(findTestObject('Object Repository/ObjRecord/App-Alarm/android.widget.TextView - Alarm'), 0)
 
-Mobile.getText(findTestObject('Object Repository/ObjRecord/Alarm/android.widget.TextView - Alarm Service'), 0)
+Mobile.getText(findTestObject('Object Repository/ObjRecord/App-Alarm/android.widget.TextView - Alarm Service'), 0)
 
-Mobile.tap(findTestObject('Object Repository/ObjRecord/Alarm/android.widget.TextView - Alarm Service'), 0)
+Mobile.tap(findTestObject('Object Repository/ObjRecord/App-Alarm/android.widget.TextView - Alarm Service'), 0)
 
-Mobile.getText(findTestObject('Object Repository/ObjRecord/Alarm/android.widget.Button - START ALARM SERVICE'), 0)
+Mobile.getText(findTestObject('Object Repository/ObjRecord/App-Alarm/android.widget.Button - START ALARM SERVICE'), 0)
 
-Mobile.tap(findTestObject('Object Repository/ObjRecord/Alarm/android.widget.Button - START ALARM SERVICE'), 0)
+Mobile.tap(findTestObject('Object Repository/ObjRecord/App-Alarm/android.widget.Button - START ALARM SERVICE'), 0)
 
-Mobile.getText(findTestObject('Object Repository/ObjRecord/Alarm/android.widget.Button - STOP ALARM SERVICE'), 0)
+Mobile.getText(findTestObject('Object Repository/ObjRecord/App-Alarm/android.widget.Button - STOP ALARM SERVICE'), 0)
 
-Mobile.tap(findTestObject('Object Repository/ObjRecord/Alarm/android.widget.Button - STOP ALARM SERVICE'), 0)
+Mobile.tap(findTestObject('Object Repository/ObjRecord/App-Alarm/android.widget.Button - STOP ALARM SERVICE'), 0)
 
 Mobile.closeApplication()
 

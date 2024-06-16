@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Text to speech then see activity hello world</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>299d39a5-1cbb-4068-9b6f-6fe30002fe1b</testCaseGuid>
+</TestCaseEntity>

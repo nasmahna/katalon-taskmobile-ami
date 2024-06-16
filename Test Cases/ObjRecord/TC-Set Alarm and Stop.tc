@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Set Alarm and Stop</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bfdf1f80-0966-4e7c-8e89-2c8e2caf45e5</testCaseGuid>
+</TestCaseEntity>

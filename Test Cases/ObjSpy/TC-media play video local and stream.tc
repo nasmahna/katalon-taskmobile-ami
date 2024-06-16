@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-media play video local and stream</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6dcfa1fb-bbc5-4379-ac1a-276cb38f4ef3</testCaseGuid>
+</TestCaseEntity>
